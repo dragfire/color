@@ -1,7 +1,7 @@
 # Color
 <p>
-<a href="https://crates.io/crates/rs-color" alt="rs-color">
-<img src="https://img.shields.io/crates/v/rs-color" /></a>
+<a href="https://crates.io/crates/colci" alt="colci">
+<img src="https://img.shields.io/crates/v/colci" /></a>
 </p>
 
 Make ASCII color strings.
