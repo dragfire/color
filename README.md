@@ -1,7 +1,15 @@
 # Color
 Make ASCII color strings.
 
-# Supported Colors:
+## Usage:
+```rust
+use rs-color::Color;
+
+Color::Cyan("All tests PASSED.").make();
+Color::Yellow("Congratulations!").make();
+```
+
+## Supported Colors:
 - Cyan
 - Green
 - Red
