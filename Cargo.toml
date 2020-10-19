@@ -1,5 +1,5 @@
 [package]
-name = "rs-color"
+name = "colci"
 version = "0.1.0"
 authors = ["dragfire <asem.devajit@gmail.com>"]
 edition = "2018"

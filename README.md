@@ -8,7 +8,7 @@ Make ASCII color strings.
 
 ## Usage:
 ```rust
-use rs-color::Color;
+use colci::Color;
 
 Color::Cyan("All tests PASSED.").make();
 Color::Yellow("Congratulations!").make();
